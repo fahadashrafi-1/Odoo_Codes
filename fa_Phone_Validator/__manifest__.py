@@ -12,9 +12,10 @@
     1. It makes mandatory the Phone Numbers. \n
     2. It provide the Phone number syntax 05XXXXXXXX. \n
     3. It check the phone numbers characters should be 10. \n
+    4. IT is as per ksa standard
 
     More validations will be updated soon. \n
-    Fahad
+    Fahad Ahmed
     """,
     'depends': ['crm'],
     'data': [
